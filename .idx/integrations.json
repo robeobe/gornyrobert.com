@@ -1,0 +1,6 @@
+{
+  "firebase_hosting": {
+    "deploymentHostingUrl": "https://new-gr-main.web.app"
+  },
+  "cloud_run_deploy": {}
+}
