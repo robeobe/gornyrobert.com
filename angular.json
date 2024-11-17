@@ -22,6 +22,11 @@
             "tsConfig": "tsconfig.app.json",
             "assets": [
               {
+                "glob": "jasmine-horizontal.png",
+                "input": "./node_modules/jasmine-core/images",
+                "output": "."
+              },
+              {
                 "glob": "**/*",
                 "input": "public"
               },
