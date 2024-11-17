@@ -10,4 +10,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'new-gr-main';
+  imagePath = 'assets/images/futuristic-apocalyptic-wolf.jpg';
 }
